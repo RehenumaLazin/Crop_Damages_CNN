@@ -1,0 +1,1 @@
+exec(open('/shared/stormcenter/rehenuma/ML_Project/Crop_Yield_Model/Model_Damaged_Area/MN_MO/3_Model_Train/Combined_Months/Corn/met/May_June/Corrected_July_6Band_scaled_log.py').read())
